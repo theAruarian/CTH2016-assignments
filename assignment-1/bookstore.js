@@ -1,5 +1,5 @@
 /*
-    file:   books.js
+    file:   bookstore.js
     desc:   script with hardcoded database of books selected from ABC
     author: D. Grouwe (10554548)
     date:   07/11/16
