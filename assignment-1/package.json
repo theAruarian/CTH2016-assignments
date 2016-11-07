@@ -8,7 +8,12 @@
   },
   "author": "Dave Grouwe (10554548)",
   "license": "ISC",
+
   "dependencies": {
     "commander": "^2.9.0"
   }
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/username/repository.git"
+}
 }
