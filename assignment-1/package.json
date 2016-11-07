@@ -1,0 +1,14 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Hard database of bookdata collected from ABC",
+  "main": "bookstore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Grouwe (10554548)",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
