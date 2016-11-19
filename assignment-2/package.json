@@ -1,0 +1,19 @@
+{
+  "name": "howler",
+  "version": "1.0.0",
+  "description": "Absurdly insulting letter, randomly generated",
+  "main": "howler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "thearuarian"
+  },
+  "author": "dsgrouwe",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "word-wrap": "^1.1.0"
+  }
+}
